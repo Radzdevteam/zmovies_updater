@@ -4,5 +4,5 @@
   "downloadUrl": "https://vru.radzvpn.com/zmovies/ZMovies%20v1.0.apk",
   "releaseNotes": "🎉 What's New:\n• Anime Player fixed\n• Added automatic server switch\n• My List bug fixed\n• Splash screen timeout issue resolved",
   "forceUpdate": true,
-  "minSupportedVersion": 1
+  "minSupportedVersion": 2
 }
